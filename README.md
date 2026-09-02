@@ -19,7 +19,7 @@ The API exposes three endpoints:
 **Example:**
 
 ```bash
-curl -X POST https://<your-live-url>/normalise \
+curl -X POST https://cloud-native-delivery-platform.onrender.com
   -H "Content-Type: application/json" \
   -d '{"rule": "  DROP  ALL   TRAFFIC  "}'
 ```
