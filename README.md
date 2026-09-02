@@ -1,5 +1,7 @@
 # Cloud-Native Delivery Platform
 
+![CI](https://github.com/husseinrabeeah/cloud-native-delivery-platform/actions/workflows/ci.yml/badge.svg)
+
 A containerised REST API for normalising rule strings (e.g. firewall rules, config entries, policy statements), built as a hands-on exercise in production-grade Docker practices and cloud deployment.
 
 ## Why this project exists
